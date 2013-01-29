@@ -56,7 +56,7 @@ app.listen(80);
 
 ```
 
-## Available Options
+## options
 
 ```js
 {
@@ -71,10 +71,10 @@ app.listen(80);
 }
 ```
 
-## Credits
+## credits
 
 Written by [@henrikjoreteg](http://twitter.com/henrikjoreteg). If you're an awesome person you should say hi to me on twitter.
 
-## License
+## license
 
 MIT
