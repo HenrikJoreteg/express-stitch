@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hennrikjoreteg/express-stitch.git"
+    "url": "git://github.com/HenrikJoreteg/express-stitch.git"
   },
   "main": "./express-stitch.js",
   "dependencies": {
