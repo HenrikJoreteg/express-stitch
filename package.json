@@ -1,13 +1,13 @@
 {
   "author": "Henrik Joreteg <henrik@andyet.net>",
-  "name": "stitcher",
+  "name": "express-stitch",
   "description": "Clientside package handling with stitch for express apps.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hennrikjoreteg/stitcher.git"
+    "url": "git://github.com/hennrikjoreteg/express-stitch.git"
   },
-  "main": "./stitcher.js",
+  "main": "./express-stitch.js",
   "dependencies": {
     "uglify-js": "2.x"
   }
