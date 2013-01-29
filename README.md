@@ -1,4 +1,4 @@
-# stitcher
+# express-stitch
 
 Simple tool for serving client-side apps built with [stitch](https://github.com/sstephenson/stitch) and [express.js](http://expressjs.com/).
 
@@ -9,6 +9,12 @@ make it easy to:
 - serve stitch packages dynamically while developing
 - write/serve minified versions of packages to disk for production use
 
+## install
+
+```
+npm install express-stitch
+```
+
 ## demo
 
 A simple express server, example:
@@ -16,7 +22,7 @@ A simple express server, example:
 ```js
 var express = require('express'),
     stitch = require('stitch'),
-    stitcher = require('stitcher');
+    stitcher = require('express-stitch');
 
 
 // a simple stitch client-package
